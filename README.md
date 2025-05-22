@@ -1,4 +1,4 @@
-# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/05/11更新】
+# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/05/22更新】
 
 ## 🔥 ChatGPT国内直连镜像，畅享 AI 体验
 
