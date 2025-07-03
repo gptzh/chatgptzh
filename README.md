@@ -1,8 +1,8 @@
-# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/06/27更新】
+# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/07/3更新】
 
 ## 🔥 ChatGPT国内直连镜像，畅享 AI 体验
 
-[ChatGPT镜像网站](https://chatgpt.zhuangbishipin.top/?allow=true)（ChatGPT Mirror）提供了无需翻墙即可使用的 ChatGPT中文版，包括 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1。本项目旨在帮助用户快速找到国内可用的 ChatGPT入口，无论是个人用户还是专业需求者，都能便捷使用 AI 对话功能。
+[ChatGPT镜像网站](http://chatgpt.btueb.cn/)（ChatGPT Mirror）提供了无需翻墙即可使用的 ChatGPT中文版，包括 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1。本项目旨在帮助用户快速找到国内可用的 ChatGPT入口，无论是个人用户还是专业需求者，都能便捷使用 AI 对话功能。
 
 ---
 
@@ -29,11 +29,11 @@ ChatGPT官方网站通常需要特殊网络条件才能访问，而 **ChatGPT中
 
 ## 1️⃣ ChatGPT镜像网站推荐
 
-> **最新可用地址**：[👉 点击进入 ChatGPT中文版直连镜像](https://chatgpt.zhuangbishipin.top/?allow=true)
+> **最新可用地址**：[👉 点击进入 ChatGPT中文版直连镜像](http://chatgpt.btueb.cn/)
 
 | 镜像网站 | 访问地址 | 支持模型 | 是否免费 |
 |---------|----------|----------|----------|
-| ChatGPT中文版镜像 | [chatgpt.zhuangbishipin.top](https://chatgpt.zhuangbishipin.top/?allow=true) | GPT-4、GPT-4o、o1、o3、DeepSeek R1 | ✅ 免费版可用 |
+| ChatGPT中文版镜像 | [http://chatgpt.btueb.cn/](http://chatgpt.btueb.cn/) | GPT-4、GPT-4o、o1、o3、DeepSeek R1 | ✅ 免费版可用 |
 
 ⚠ **注意**：镜像网站可能会不定期更新，如遇无法访问，请及时检查新的可用地址。
 
@@ -53,7 +53,7 @@ ChatGPT官方网站通常需要特殊网络条件才能访问，而 **ChatGPT中
 
 使用 ChatGPT 国内镜像非常简单：
 
-1. **打开链接**：[点击访问 ChatGPT镜像网站](https://chatgpt.zhuangbishipin.top/?allow=true)
+1. **打开链接**：[点击访问 ChatGPT镜像网站](http://chatgpt.btueb.cn/)
 2. **无需翻墙**，直接使用
 3. **选择模型**（GPT-4、GPT-4o、DeepSeek R1 等）
 4. **开始聊天**，体验 AI 对话
@@ -78,7 +78,7 @@ ChatGPT 镜像站点是第三方搭建的，因此建议仅用于测试和体验
 - [ChatGPT 官方网站](https://openai.com/chatgpt)（需翻墙）
 - [DeepSeek AI 官网](https://www.deepseek.com/)（国内可访问）
 - [ChatGPT API 申请教程](https://platform.openai.com/)
-- [ChatGPT 国内能用吗？](https://chatgpt.zhuangbishipin.top/?allow=true)
+- [ChatGPT 国内能用吗？](http://chatgpt.btueb.cn/)
 
 ---
 
