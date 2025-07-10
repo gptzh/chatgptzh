@@ -1,8 +1,8 @@
-# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/07/7更新】
+# ChatGPT中文版：国内直连镜像网站合集（支持chatgpt4.5、GPT4o、o3、o4和claude，无需翻墙）【2025/07/10更新】
 
 ## 🔥 ChatGPT国内直连镜像，畅享 AI 体验
 
-[ChatGPT镜像网站](http://chatgpt.btueb.cn/)（ChatGPT Mirror）提供了无需翻墙即可使用的 ChatGPT中文版，包括 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1。本项目旨在帮助用户快速找到国内可用的 ChatGPT入口，无论是个人用户还是专业需求者，都能便捷使用 AI 对话功能。
+[ChatGPT镜像网站](http://chatgpt.btueb.cn/)（ChatGPT Mirror）提供了无需翻墙即可使用的 ChatGPT中文版，包括支持chatgpt4.5、GPT4o、o3、o4和claude。本项目旨在帮助用户快速找到国内可用的 ChatGPT入口，无论是个人用户还是专业需求者，都能便捷使用 AI 对话功能。
 
 ---
 
